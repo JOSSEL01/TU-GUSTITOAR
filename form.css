@@ -108,11 +108,11 @@ iframe{
     -ms-border-radius: 50px;
     -o-border-radius: 50px;
     width: 90%;
-    height: 85%;
+    height: 90%;
   }
   
   .login-box .avatar {
-    width: 70px;
+    width: 100px;
     height: 70px;
     position: absolute;
     top: -50px;
